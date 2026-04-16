@@ -53,3 +53,7 @@ completing this project.
 - Add real-time detection using YOLO
 - Improve deployment with full model integration
 
+## Technical Tags
+
+Computer Vision, Deep Learning, Image Classification, CNN, Transfer Learning, MobileNetV2, Data Augmentation, Model Evaluation, Streamlit Deployment, TensorFlow, Aerial Surveillance AI
+
