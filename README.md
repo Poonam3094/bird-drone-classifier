@@ -1,4 +1,4 @@
-# Bird vs Drone Classification using Deep Learning
+# Aerial Object Classification & Detection using Deep Learning
 
 ## Project Overview
 In this project, I have built a deep learning model to classify aerial images into two categories: Bird and Drone. This problem is important in areas like airport safety, surveillance, and wildlife monitoring.
